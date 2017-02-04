@@ -1,3 +1,1 @@
-# WHS-Debate
-
-# [Website Link](https://jyang1958.github.io/WHS-Debate/)
+# [Westfield High School Debate](https://jyang1958.github.io/WHS-Debate/)
